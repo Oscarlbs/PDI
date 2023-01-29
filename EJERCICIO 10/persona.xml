@@ -1,0 +1,38 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE personas SYSTEM "personas.dtd"
+<perfil>
+    <perfil>
+        <nombre>PEPE</nombre>
+        <apellidos>LOPEZ</apellidos>
+        <usuario>BOA2</usuario>
+        <fechaNacimiento>1978-25-06</fechaNacimiento>
+        <telefono>685268257</telefono>
+        <sexo>HOMBRE</sexo>
+        <calificacion>7.5</calificacion>
+
+    </perfil>
+    <perfil>
+
+        <nombre>MARIA</nombre>
+        <apellidos>MAGDALENA</apellidos>
+        <usuario>MARIMAGNI</usuario>
+        <fechaNacimiento>2002-10-09</fechaNacimiento>
+        <telefono>658985785</telefono>
+        <sexo>MUJER</sexo>
+        <calificacion>9</calificacion>
+
+    </perfil>
+    <perfil>
+
+        <nombre>JUAN CARLOS</nombre>
+        <apellidos>FERNANDEZ</apellidos>
+        <usuario>CARLITOS</usuario>
+        <fechaNacimiento>1986-10-09</fechaNacimiento>
+        <telefono>987698265</telefono>
+        <sexo>HOMBRE</sexo>
+        <calificacion>6.5</calificacion>
+
+    </perfil>
+
+</perfil>
